@@ -1,2 +1,2 @@
-discord==1.0.1
-yahoo_fin==0.8.8
+discord
+yahoo_fin
